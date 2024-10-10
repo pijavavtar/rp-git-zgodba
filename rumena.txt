@@ -1,0 +1,5 @@
+ V ta repozitorij dodaj commit iz 12. 12. 2012
+ Naprogramiraj nekaj
+ Nauči se git
+ Izbriši ta
+ 
